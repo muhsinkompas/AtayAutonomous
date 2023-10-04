@@ -1,0 +1,47 @@
+{
+    "Cameras" :
+    [
+        {
+            "cam_id" : "398D6D4F",
+            "cam_name" : "Right",
+            "cam_h" : 0.72,
+            "cam_width" : 640,
+            "cam_height" : 360,
+            "cam_Pitch" : 29.88,
+            "cam_Roll" :  0.53,
+            "cam_Yaw" : 30.18,
+            "cam_intrinsic": [
+                [ 478.647,	0,		0],
+                [0,		 475.562,	0],
+                [ 328.265,	 171.966,	1.0000]]
+        },
+        {
+            "cam_id" : "2793557F",
+            "cam_name" : "Left",
+            "cam_h" : 0.72,
+            "cam_width" : 640,
+            "cam_height" : 360,
+            "cam_Pitch" : 31.33,
+            "cam_Roll" :  1.16,
+            "cam_Yaw" : -29.14,
+            "cam_intrinsic": [
+                [ 476.052,	0,		0],
+                [0,		 471.452,	0],
+                [ 328.368,	 170.271,	1.0000]]
+        },
+        {
+            "cam_id" : 789,
+            "cam_name" : "Spare",
+            "cam_h" : 1,
+            "cam_width" : 640,
+            "cam_height" : 360,
+            "cam_Pitch" : 0,
+            "cam_Roll" : 0,
+            "cam_Yaw" : 0,
+            "cam_intrinsic": [
+                [1.123,0,0],
+                [0,1.2312,0],
+                [0,0,1.1645]]
+        }
+    ]
+}
